@@ -14,6 +14,7 @@ In the future, I would like to use the speech2text model in combination with a L
 ## Table of Contents
 
 - [Installation](#installation)
+- [Data](#data)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,6 +23,9 @@ In the future, I would like to use the speech2text model in combination with a L
 
 The required packages are listed in the requirements.txt file. Alternatively, you can use the package manager [pip](https://pip.pypa.io/en/stable/) to install the packages listed in requirements.txt
 
+## Data
+Even though my data file is very small it is not good practice to upload data to GitHub. To get access to the df_french.csv follow the link: https://hecparis-my.sharepoint.com/:x:/g/personal/thomas_schneider_hec_edu/EXHZv9VF2RhDmRLe1iHV2koBtclNcXAZaB8PPZbTdmeHPQ?e=odq9zN
+The access expires Friday, September 22nd 2023, but can be prolonged if need be. Make sure to download the .csv file before running the docker. 
 
 ## Usage
 
