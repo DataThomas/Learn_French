@@ -1,0 +1,6 @@
+pandas
+numpy
+SpeechRecognition
+streamlit
+streamlit-folium
+folium
